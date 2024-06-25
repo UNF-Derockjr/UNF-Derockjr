@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Derrick Keith
 - 👀 I’m interested in Programming and Robotics
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on start ups / side projects
+- 💻 I’m looking to collaborate on start ups / side projects
 - 📫 How to reach me Instagram: @derockjrdev / Email: derrickkeithjr@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am FLL robotics coach
